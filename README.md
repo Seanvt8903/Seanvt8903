@@ -41,15 +41,6 @@
 
 ---
 
-## 🧩 Featured Projects
-> Pin 3–6 repos on your GitHub profile so this section matches your best work.
-
-- **Project Name 1** — short value statement (e.g., “Full-stack dashboard with auth + CRUD + charts”)
-- **Project Name 2** — short value statement (e.g., “API + DB design + caching + deployment”)
-- **Project Name 3** — short value statement (e.g., “Mobile / React Native app with real-time features”)
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Seanvt8903&theme=github_dark&hide_border=true" height="160"/>
