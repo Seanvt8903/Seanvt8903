@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Sean 👋</h1>
+<h1 align="center">Hi, I'm Dũng, but you can call me Sean 👋</h1>
 <p align="center">
   Aspiring Full-Stack Developer • Building web apps with clean UI + solid backend • Always learning
 </p>
