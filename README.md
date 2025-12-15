@@ -11,6 +11,3 @@ Motivated and dedicated aspiring full-stack developer with a strong passion for 
 ![](https://github-readme-stats.vercel.app/api?username=Seanvt8903&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Seanvt8903&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanvt8903&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Seanvt8903&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
