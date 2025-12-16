@@ -41,14 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Seanvt8903&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanvt8903&theme=github_dark&hide_border=true&layout=compact" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to opportunities • Always happy to connect 🤝</i>
 </p>
